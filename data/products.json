@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Vietnam Drip Coffee",
+    "price": 15000,
+    "picture": "vietnam-drip-coffee.png"
+  },
+  {
+    "id": 2,
+    "name": "Americano Coffee",
+    "price": 12000,
+    "picture": "americano-coffee.png"
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "price": 18000,
+    "picture": "cappuccino.png"
+  },
+  {
+    "id": 4,
+    "name": "Caramel Latte",
+    "price": 25000,
+    "picture": "caramel-latte.png"
+  },
+  {
+    "id": 5,
+    "name": "Mocha Coffee",
+    "price": 22000,
+    "picture": "mocha-coffee.png"
+  },
+  {
+    "id": 6,
+    "name": "Vanilla Latte",
+    "price": 28000,
+    "picture": "vanilla-latte.png"
+  },
+  {
+    "id": 7,
+    "name": "Vanilla Milkshake",
+    "price": 15000,
+    "picture": "vanilla-milkshake.png"
+  },
+  {
+    "id": 8,
+    "name": "Strawberry Milkshake",
+    "price": 17000,
+    "picture": "strawberry-milkshake.png"
+  },
+  {
+    "id": 9,
+    "name": "Kentang Goreng",
+    "price": 15000,
+    "picture": "kentang-goreng.png"
+  },
+  {
+    "id": 10,
+    "name": "Kue Pancong",
+    "price": 10000,
+    "picture": "kue-pancong.png"
+  }
+]
